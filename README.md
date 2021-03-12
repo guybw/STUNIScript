@@ -1,4 +1,7 @@
 # STUNIScript
+
+This script was uploaded from https://www.reddit.com/r/SCCM/comments/m33wwc/stuni_script_improve_machine_performance_patching/ to help others and myself.
+
 Improve Windows machine performance &amp; patching success
 
 STUNI Script
